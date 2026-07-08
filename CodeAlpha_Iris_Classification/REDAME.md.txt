@@ -1,0 +1,16 @@
+# Iris Flower Classification
+
+## Project Description
+This project uses Machine Learning to classify iris flowers.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Model
+Random Forest Classifier
+
+## Result
+The model predicts flower species with good accuracy.
