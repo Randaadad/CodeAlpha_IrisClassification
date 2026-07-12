@@ -2,9 +2,7 @@
 
 ## 📖 About the Project
 
-This project is part of my Machine Learning journey and was completed as a task for the CodeAlpha Data Science Internship.
-
-The goal of this project is to build a classification model that can identify the species of an Iris flower based on its physical measurements. I used the K-Nearest Neighbors (KNN) algorithm, one of the most popular and beginner-friendly supervised machine learning algorithms.
+This project is part of my Machine Learning journey and was completed as a task for Data Science.
 
 Throughout this project, I followed the complete machine learning workflow—from understanding and preparing the dataset to training, evaluating, and testing the model.
 
